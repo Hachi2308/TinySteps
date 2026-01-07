@@ -1,0 +1,7 @@
+{
+  "name": "TinySteps - Word Catching Game",
+  "description": "Một trò chơi thực tế ảo tăng cường tương tác giúp học sinh học từ vựng thông qua việc tóm các từ 3D đang bay với hiệu ứng hạt tan biến sinh động.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
